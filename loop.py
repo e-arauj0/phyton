@@ -28,5 +28,4 @@ for numero in num:
     if numero %2 == 0:
         continue
     print(numero)
-    # else:
-    #     print(f"o número {numero} é impar")
+
