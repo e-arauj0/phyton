@@ -1,13 +1,13 @@
-# A partir de um arquivo .py podemos puxar outros arquivos
-import funcoes
+# # A partir de um arquivo .py podemos puxar outros arquivos
+# import funcoes
 
-funcoes.comprimento("emily")
+# funcoes.comprimento("emily")
 
 
-from funcoes import comprimento, somar # Importando apenas funções especificas
+# from funcoes import comprimento, somar # Importando apenas funções especificas
 
-comprimento("emily")
-print(somar(4,5))
+# comprimento("emily")
+# print(somar(4,5))
 
 # from funcoes import * 
 # Está importando todas as funções do arquivo
